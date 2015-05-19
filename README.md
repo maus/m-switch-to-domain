@@ -1,6 +1,7 @@
 Basic Wordpress Multisite plugin that facilitates quickly switching from one site to another while remaining on the same page.
 
-*Example:*
+**Example:**
+
 1. In a network you have 2 sites (blogs): Site A and Site B. 
 2. You are on the Writing settings page of Site A ( http://sitea.com/wp-admin/options-writing.php )
 
