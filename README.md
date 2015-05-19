@@ -1,3 +1,5 @@
+# Switch to Domain
+
 Basic Wordpress Multisite plugin that facilitates quickly switching from one site to another while remaining on the same page.
 
 **Example:**
